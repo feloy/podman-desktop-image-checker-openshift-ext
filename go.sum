@@ -745,8 +745,8 @@ github.com/opencontainers/selinux v1.8.2/go.mod h1:MUIHuUEvKB1wtJjQdOyYRgOnLD2xA
 github.com/opencontainers/selinux v1.9.1/go.mod h1:2i0OySw99QjzBBQByd1Gr9gSjvuho1lHsJxIJ3gGbJI=
 github.com/opencontainers/selinux v1.10.0/go.mod h1:2i0OySw99QjzBBQByd1Gr9gSjvuho1lHsJxIJ3gGbJI=
 github.com/opencontainers/selinux v1.10.1/go.mod h1:2i0OySw99QjzBBQByd1Gr9gSjvuho1lHsJxIJ3gGbJI=
-github.com/opencontainers/selinux v1.10.2 h1:NFy2xCsjn7+WspbfZkUd5zyVeisV7VFbPSP96+8/ha4=
-github.com/opencontainers/selinux v1.10.2/go.mod h1:cARutUbaUrlRClyvxOICCgKixCs6L05aUsohzA3EkHQ=
+github.com/opencontainers/selinux v1.12.0 h1:6n5JV4Cf+4y0KNXW48TLj5DwfXpvWlxXplUkdTrmPb8=
+github.com/opencontainers/selinux v1.12.0/go.mod h1:BTPX+bjVbWGXw7ZZWUbdENt8w0htPSrlgOOysQaU62U=
 github.com/opentracing/opentracing-go v1.2.0/go.mod h1:GxEUsuufX4nBwe+T+Wl9TAgYrxe9dPLANfrWvHYVTgc=
 github.com/ostreedev/ostree-go v0.0.0-20210805093236-719684c64e4f h1:/UDgs8FGMqwnHagNDPGOlts35QkhAZ8by3DR7nMih7M=
 github.com/ostreedev/ostree-go v0.0.0-20210805093236-719684c64e4f/go.mod h1:J6OG6YJVEWopen4avK3VNQSnALmmjvniMmni/YFYAwc=
