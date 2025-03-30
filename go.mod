@@ -3,9 +3,12 @@ module github.com/redhat-developer/docker-openshift-analyzer
 go 1.18
 
 require (
+	github.com/containers/common v0.51.0
 	github.com/containers/podman/v4 v4.4.1
+	github.com/docker/docker v23.0.0-rc.3+incompatible
 	github.com/google/go-containerregistry v0.12.1
 	github.com/moby/buildkit v0.11.1
+	github.com/opencontainers/image-spec v1.1.0-rc2
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.6.1
 )
@@ -19,14 +22,13 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
 	github.com/blang/semver/v4 v4.0.0 // indirect
 	github.com/chzyer/readline v1.5.1 // indirect
-	github.com/cilium/ebpf v0.7.0 // indirect
+	github.com/cilium/ebpf v0.9.1 // indirect
 	github.com/container-orchestrated-devices/container-device-interface v0.5.3 // indirect
-	github.com/containerd/cgroups v1.0.4 // indirect
+	github.com/containerd/cgroups v1.1.0 // indirect
 	github.com/containerd/containerd v1.6.15 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.13.0 // indirect
 	github.com/containerd/typeurl v1.0.2 // indirect
 	github.com/containers/buildah v1.29.0 // indirect
-	github.com/containers/common v0.51.0 // indirect
 	github.com/containers/image/v5 v5.24.0 // indirect
 	github.com/containers/libtrust v0.0.0-20230121012942-c1716e8a8d01 // indirect
 	github.com/containers/ocicrypt v1.1.7 // indirect
@@ -38,7 +40,6 @@ require (
 	github.com/disiqueira/gotree/v3 v3.0.2 // indirect
 	github.com/docker/cli v23.0.0-rc.3+incompatible // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
-	github.com/docker/docker v23.0.0-rc.3+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
 	github.com/docker/go-connections v0.4.1-0.20210727194412-58542c764a11 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
@@ -86,7 +87,6 @@ require (
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
-	github.com/opencontainers/image-spec v1.1.0-rc2 // indirect
 	github.com/opencontainers/runc v1.1.4 // indirect
 	github.com/opencontainers/runtime-spec v1.0.3-0.20220825212826-86290f6a00fb // indirect
 	github.com/opencontainers/runtime-tools v0.9.1-0.20221014010322-58c91d646d86 // indirect
