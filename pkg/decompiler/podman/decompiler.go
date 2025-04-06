@@ -3,8 +3,8 @@ package decompiler
 import (
 	"context"
 	"github.com/containers/common/pkg/config"
-	"github.com/containers/podman/v4/pkg/bindings"
-	"github.com/containers/podman/v4/pkg/bindings/images"
+	"github.com/containers/podman/v5/pkg/bindings"
+	"github.com/containers/podman/v5/pkg/bindings/images"
 	v1 "github.com/opencontainers/image-spec/specs-go/v1"
 	"sort"
 	"strings"
