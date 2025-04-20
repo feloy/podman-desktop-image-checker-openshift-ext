@@ -16,7 +16,7 @@ require (
 	github.com/Microsoft/hcsshim v0.9.6 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d // indirect
-	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
+	github.com/asaskevich/govalidator a9d515a09cc2 // indirect
 	github.com/blang/semver/v4 v4.0.0 // indirect
 	github.com/chzyer/readline v1.5.1 // indirect
 	github.com/cilium/ebpf v0.7.0 // indirect
