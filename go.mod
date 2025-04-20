@@ -56,7 +56,7 @@ require (
 	github.com/go-openapi/validate v0.22.0 // indirect
 	github.com/godbus/dbus/v5 v5.1.1-0.20221029134443-4b691ce883d5 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
+	github.com/golang/groupcache 2c02b8208cf8 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-intervals v0.0.2 // indirect
 	github.com/google/uuid v1.3.0 // indirect
