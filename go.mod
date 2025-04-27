@@ -36,7 +36,7 @@ require (
 	github.com/cyberphone/json-canonicalization v0.0.0-20220623050100-57a0ce2678a7 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.3 // indirect
 	github.com/disiqueira/gotree/v3 v3.0.2 // indirect
-	github.com/docker/cli v23.0.0-rc.3+incompatible // indirect
+	github.com/docker/cli v23.0.15+incompatible // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/docker/docker v23.0.0-rc.3+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
