@@ -71,7 +71,7 @@ require (
 	github.com/klauspost/compress v1.15.15 // indirect
 	github.com/klauspost/pgzip v1.2.6-0.20220930104621-17e8dac29df8 // indirect
 	github.com/kr/fs v0.1.0 // indirect
-	github.com/letsencrypt/boulder v0.0.0-20221109233200-85aa52084eaf // indirect
+	github.com/letsencrypt/boulder faa07f5e365f // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
