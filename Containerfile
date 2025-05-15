@@ -40,7 +40,7 @@ COPY ./podman-desktop-extension/icon.png /extension/
 COPY ./podman-desktop-extension/README.md /extension/
 
 
-FROM --platform=linux/amd64 registry.access.redhat.com/ubi9/go-toolset:1.19.13-4.1697647145 as cli-builder
+FROM --platform=linux/amd64 registry.access.redhat.com/ubi9/go-toolset:9.6-1745588370 as cli-builder
 ARG PLATFORM_ARG
 ARG OS_ARG
 
