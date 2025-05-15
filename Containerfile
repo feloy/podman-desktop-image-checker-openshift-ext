@@ -15,7 +15,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
-FROM --platform=linux/amd64 registry.access.redhat.com/ubi9/nodejs-18:1-80.1699550448 as node-builder
+FROM --platform=linux/amd64 registry.access.redhat.com/ubi9/nodejs-18:9.6-1745586503 as node-builder
 
 RUN npm install -g yarn
 
